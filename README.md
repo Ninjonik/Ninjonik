@@ -70,7 +70,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/PHPStorm-%2366595C.svg?&style=plastic&logo=atom&logoColor=blueviolet&color" /></a>
 </p>
 
  ### 👉 Operating Systems
