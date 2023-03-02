@@ -7,7 +7,7 @@
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Electricity` and `Computer Networks`.
-- :nerd_face: Always `learning new things` (atleast I'm trying to)
+- :nerd_face: Always `learning new things` (at best)
 
 <br>
 
@@ -34,9 +34,9 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2300599C.svg?style=plastic&logo=php&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a> 
 </p>
 
 ### 👉 Frontend Development
@@ -48,6 +48,10 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a> 
 </p>
 
@@ -70,7 +74,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/PHPStorm-%2366595C.svg?&style=plastic&logo=atom&logoColor=blueviolet&color" /></a>
+    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%2366595C.svg?&style=plastic&logo=atom&logoColor=blueviolet&color" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -99,19 +103,17 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ninjoniksvk"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ninjoniksvk&custom_title=Ninjonik's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <br/>
 
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjoniksvk&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
+
+<p align = "center">
+	<h3 align="center"> Not how long, but how well you have lived is the main thing. </h3>
+	<p align="center">- Seneca</p>
+</p>
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
