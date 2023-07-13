@@ -12,7 +12,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjoniksvk&theme=algolia" alt="Ninjonik" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjonik&theme=algolia" alt="Ninjonik" /></p>
 
 <br>
 <br>
@@ -95,10 +95,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ninjonik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ninjoniksvk&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ninjonik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ninjonik&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjoniksvk&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ninjonik" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjonik&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ninjonik" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -108,7 +108,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjoniksvk&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
 
 <p align = "center">
 	<h3 align="center"> Not how long, but how well you have lived is the main thing. </h3>
