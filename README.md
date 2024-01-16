@@ -50,6 +50,10 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a>
   &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2332CD32.svg?style=plastic&logo=tailwindcss&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a> 
@@ -79,31 +83,35 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="https://www.json.org/"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="https://discordpy.readthedocs.io/en/stable/"><img alt="Discord.py" img src="https://img.shields.io/badge/Discord.py-%23000000.svg?style=plastic&logo=discord&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%2366595C.svg?&style=plastic&logo=atom&logoColor=blueviolet&color" /></a>
+    <a href="https://www.jetbrains.com/"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%2366595C.svg?&style=plastic&logo=atom&logoColor=blueviolet&color" /></a>
 </p>
 
  ### 👉 Operating Systems
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
+    <a href="https://www.debian.org/"><img alt="Debian" src="https://img.shields.io/badge/Debian-FF0000?style=plastic&logo=debian&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
 </p>
 
 <br/>
@@ -136,4 +144,4 @@
 </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Readme inspired by: [7oSkaaa](https://github.com/7oSkaaa)
