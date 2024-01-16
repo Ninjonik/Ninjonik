@@ -7,7 +7,6 @@
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Electricity` and `Computer Networks`.
-- :nerd_face: Always `learning new things` (at best)
 
 <br>
 
