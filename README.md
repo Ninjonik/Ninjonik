@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Ninjonik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"><a href="https://ninjonik.igportals.eu/" target="_blank">https://ninjonik.igportals.eu</a></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Networks+Student;Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -49,8 +50,28 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a> 
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%232370ED.svg?style=plastic&logo=typescript&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://react.dev/" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React-%2300599C.svg?style=plastic&logo=react&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank"> 
+     <img alt="NextJs" src="https://img.shields.io/badge/NextJs-%2300599C.svg?style=plastic&logo=nextjs&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank"> 
+     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23123213.svg?style=plastic&logo=firebase&logoColor=orange">
+  </a> 
+  &emsp;
+  <a href="https://appwrite.io/" target="_blank"> 
+     <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-%23000000.svg?style=plastic&logo=appwrite&logoColor=red">
   </a> 
 </p>
 
