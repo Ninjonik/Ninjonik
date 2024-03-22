@@ -110,6 +110,8 @@
     <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="https://www.debian.org/"><img alt="Debian" src="https://img.shields.io/badge/Debian-FF0000?style=plastic&logo=debian&logoColor=white"></a>
+ &emsp;
+    <a href="https://archlinux.org/"><img alt="I use Arch BTW" src="https://img.shields.io/badge/Arch-00FF00?style=plastic&logo=archlinux&logoColor=white"></a>
   &emsp;
     <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
 </p>
