@@ -32,6 +32,10 @@
   &emsp;
   <a href="https://www.php.net/" target="_blank"> 
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2300599C.svg?style=plastic&logo=php&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://laravel.com/" target="_blank"> 
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FFFFFF.svg?style=plastic&logo=Laravel&logoColor=red">
   </a> 
   &emsp;
   <a href="https://www.python.org/" target="_blank"> 
