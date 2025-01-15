@@ -79,6 +79,10 @@
   <a href="https://appwrite.io/" target="_blank"> 
      <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-%23000000.svg?style=plastic&logo=appwrite&logoColor=red">
   </a> 
+  &emsp;
+  <a href="https://pocketbase.io/" target="_blank"> 
+     <img alt="Pocketbase" src="https://img.shields.io/badge/Pocketbase-%23000000.svg?style=plastic&logo=pocketbase&logoColor=white">
+  </a> 
 </p>
 
  ### 👉 Software & Tools
