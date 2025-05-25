@@ -5,7 +5,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_man:  About Me
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Mathematics` and `Artificial Intelligence`.
 
