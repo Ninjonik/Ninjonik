@@ -12,7 +12,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjonik&theme=algolia" alt="Ninjonik" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=ninjonik&theme=algolia" alt="Ninjonik" /></p>
 
 <br>
 <br>
