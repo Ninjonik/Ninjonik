@@ -1,13 +1,12 @@
-<h1 align="center">Hi , I'm Ninjonik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><a href="https://ninjonik.igportals.eu/" target="_blank">https://ninjonik.igportals.eu</a></p>
+<h1 align="center">Hi , I'm Ninjonik (Peter Zaťko) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"><a href="https://https://peter-zatko.igportals.eu//" target="_blank">https://peter-zatko.igportals.eu/</a></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
 ## :sassy_man:  About Me
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Mathematics`, `Computer Science` and `Artificial Intelligence`.
+- :student: I like travelling, experiencing and learning new things about the world around us.
 
 <br>
 
