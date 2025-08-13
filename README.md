@@ -38,6 +38,10 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank"> 
+     <img alt="NextJs" src="https://img.shields.io/badge/NextJs-%2300000C.svg?style=plastic&logo=next.js&logoColor=white">
+  </a> 
 </p>
 
 ### 👉 Frontend Development
@@ -65,10 +69,6 @@
   &emsp;
   <a href="https://react.dev/" target="_blank"> 
      <img alt="React" src="https://img.shields.io/badge/React-%2300599C.svg?style=plastic&logo=react&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://nextjs.org/" target="_blank"> 
-     <img alt="NextJs" src="https://img.shields.io/badge/NextJs-%2300599C.svg?style=plastic&logo=nextjs&logoColor=white">
   </a> 
   &emsp;
   <a href="https://firebase.google.com/" target="_blank"> 
