@@ -84,6 +84,31 @@
   </a> 
 </p>
 
+### 👉 Databases
+<p align="center">
+&emsp;
+<a href="https://www.mysql.com/" target="_blank"> 
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white">
+</a>
+&emsp;
+<a href="https://www.postgresql.org/" target="_blank"> 
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white">
+</a>
+&emsp;
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">
+</a>
+&emsp;
+<a href="https://firebase.google.com/docs/firestore" target="_blank"> 
+<img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFA000?style=plastic&logo=firebase&logoColor=white">
+</a>
+&emsp;
+<a href="https://www.sqlite.org/" target="_blank"> 
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white">
+</a>
+</p>
+
+
  ### 👉 Software & Tools
  
 <p align="center">
