@@ -133,11 +133,11 @@
 </a>
 &emsp;
 <a href="https://www.jetbrains.com/">
-  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%2366595C.svg?&style=plastic&logo=atom&logoColor=blueviolet&color" />
+  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=plastic&logo=jetbrains&logoColor=white" />
 </a>
 &emsp;
 <a href="https://zed.dev/">
-  <img alt="Zed" src="https://img.shields.io/badge/Zed-000000.svg?style=plastic&logo=zedindustries&logoColor=white">
+  <img alt="Zed" src="https://img.shields.io/badge/Zed-00FFCC.svg?style=plastic&logo=zedindustries&logoColor=000000">
 </a>
 </p>
 
