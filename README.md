@@ -6,7 +6,7 @@
 
 
 ## :sassy_man:  About Me
-- :student: I like travelling, experiencing and learning new things about the world around us.
+- :student: I like travelling, experiencing and learning new things about the world around me.
 
 <br>
 
