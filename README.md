@@ -12,7 +12,6 @@
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://streak-stats.demolab.com/?user=ninjonik&theme=algolia" alt="Ninjonik" /></p>
-
 <br>
 <br>
 
