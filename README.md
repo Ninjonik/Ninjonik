@@ -7,7 +7,7 @@
 
 ## :sassy_man:  About Me
 - :student: I like travelling, experiencing and learning new things about the world around me.
-- :mortar_board: Currently studying CS - AI at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
+- :mortar_board: Currently studying Computer Science - AI at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
 
 
 <br>
