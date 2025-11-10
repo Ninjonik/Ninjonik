@@ -20,7 +20,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming languages I can comfortably use
 
 <p align="center"> 
   &emsp; 
@@ -45,7 +45,7 @@
   </a> 
 </p>
 
-### 👉 Frontend Development
+### 👉 Frontend Development I am proficient in
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -85,7 +85,7 @@
   </a> 
 </p>
 
-### 👉 Databases
+### 👉 Databases I have used
 <p align="center">
 &emsp;
 <a href="https://www.mysql.com/" target="_blank"> 
@@ -110,7 +110,7 @@
 </p>
 
 
- ### 👉 Software & Tools
+ ### 👉 Software & Tools I use in day-to-day operations
  
 <p align="center">
   &emsp;
@@ -125,7 +125,7 @@
     <a href="https://discordpy.readthedocs.io/en/stable/"><img alt="Discord.py" img src="https://img.shields.io/badge/Discord.py-%23000000.svg?style=plastic&logo=discord&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs
+ ### 👉 IDEs I keep switching
  
 <p align="center">
 &emsp;
@@ -143,7 +143,7 @@
 </p>
 
 
- ### 👉 Operating Systems
+ ### 👉 Operating Systems I have used at some point or still use
  
 <p align="center">
   &emsp;
@@ -161,7 +161,6 @@
 <br/>
 
 ## 📊 Github Stats
-
 
 
   <summary><b>💻 My GitHub Profile Stats</b></summary>
