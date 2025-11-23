@@ -5,7 +5,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_man:  About Me
 - :student: I love travelling, gaming, coding and learning new things about the world around me.
 - :mortar_board: Currently studying Computer Science - at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
 
@@ -20,7 +20,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages I can comfortably use
+### 👉 Programming Languages I Can Comfortably Use
 
 <p align="center"> 
   &emsp; 
@@ -45,7 +45,7 @@
   </a> 
 </p>
 
-### 👉 Frontend Development I am proficient in
+### 👉 Frontend Development I Am Proficient In
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -85,7 +85,7 @@
   </a> 
 </p>
 
-### 👉 Databases I have used
+### 👉 Databases I Have Used
 <p align="center">
 &emsp;
 <a href="https://www.mysql.com/" target="_blank"> 
@@ -110,7 +110,7 @@
 </p>
 
 
- ### 👉 Software & Tools I use in day-to-day operations
+ ### 👉 Software & Tools I Use In Day-To-Day Operations
  
 <p align="center">
   &emsp;
@@ -125,7 +125,7 @@
     <a href="https://discordpy.readthedocs.io/en/stable/"><img alt="Discord.py" img src="https://img.shields.io/badge/Discord.py-%23000000.svg?style=plastic&logo=discord&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs I keep switching
+ ### 👉 IDEs I Keep Switching
  
 <p align="center">
 &emsp;
@@ -143,7 +143,7 @@
 </p>
 
 
- ### 👉 Operating Systems I have used
+ ### 👉 Operating Systems I Have Used
  
 <p align="center">
   &emsp;
