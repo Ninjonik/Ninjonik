@@ -182,8 +182,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
 
 <p align = "center">
-	<h3 align="center"> Not how long, but how well you have lived is the main thing. </h3>
-	<p align="center">- Seneca</p>
+	<h3 align="center">Not how long, but how well you have lived is the main thing.</h3>
+	<p align="center">Seneca</p>
 </p>
 
 -----
