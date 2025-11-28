@@ -57,7 +57,7 @@
   </a>
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2332CD32.svg?style=plastic&logo=tailwindcss&logoColor=white">
+    <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-%2332CD32.svg?style=plastic&logo=tailwindcss&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> 
