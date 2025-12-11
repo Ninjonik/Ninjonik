@@ -6,7 +6,7 @@
 
 
 ## :sassy_man:  About Me
-- :student: I love travelling, gaming, transportation, coding and learning new stuff (mostly when not forced to).
+- :student: I love travelling, gaming, transportation, coding and learning (mostly when not forced to).
 - :mortar_board: I'm currently studying Computer Science at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
 
 
