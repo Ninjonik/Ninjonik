@@ -143,7 +143,7 @@
 </p>
 
 
- ### 👉 Operating Systems I Have Used
+ ### 👉 Operating Systems I work with
  
 <p align="center">
   &emsp;
