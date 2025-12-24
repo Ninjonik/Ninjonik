@@ -45,7 +45,7 @@
   </a> 
 </p>
 
-### 👉 Frontend Development I Am Proficient In
+### 👉 Frontend
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
