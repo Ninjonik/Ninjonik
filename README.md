@@ -85,7 +85,7 @@
   </a> 
 </p>
 
-### 👉 Databases I Have Used
+### 👉 Databases
 <p align="center">
 &emsp;
 <a href="https://www.mysql.com/" target="_blank"> 
