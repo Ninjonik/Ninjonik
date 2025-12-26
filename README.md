@@ -110,7 +110,7 @@
 </p>
 
 
- ### 👉 Software & Tools I Use In Day-To-Day Operations
+ ### 👉 Software & Tools
  
 <p align="center">
   &emsp;
