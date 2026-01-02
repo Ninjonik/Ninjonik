@@ -20,7 +20,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming Languages I Can Comfortably Use
+### 👉 Backend
 
 <p align="center"> 
   &emsp; 
