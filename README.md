@@ -125,7 +125,7 @@
     <a href="https://discordpy.readthedocs.io/en/stable/"><img alt="Discord.py" img src="https://img.shields.io/badge/Discord.py-%23000000.svg?style=plastic&logo=discord&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs I Keep Switching
+ ### 👉 IDEs
  
 <p align="center">
 &emsp;
