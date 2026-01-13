@@ -163,7 +163,6 @@
 ## 📊 My GitHub Stats
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ninjonik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ninjonik&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -177,7 +176,7 @@
 
 <br/>
 
-## :trophy: My GitHub Profile Trophies
+## :trophy: My GitHub Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
 
