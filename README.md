@@ -181,7 +181,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
 
 <p align = "center">
-	<h3 align="center">If you ever feel like giving up, remember why you started.</h3>
+	<h3 align="center">If you feel like giving up, remember why you started.</h3>
 </p>
 
 -----
