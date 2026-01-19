@@ -183,6 +183,3 @@
 <p align = "center">
 	<h3 align="center">If you feel like giving up, remember why you started.</h3>
 </p>
-
------
-Readme inspired by: [7oSkaaa](https://github.com/7oSkaaa)
