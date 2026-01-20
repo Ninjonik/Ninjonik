@@ -173,9 +173,6 @@
   <b>Note:</b> The Top Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-
-<br/>
-
 ## :trophy: My GitHub Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
