@@ -170,7 +170,7 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjonik&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ninjonik" height="192px"/>
   <br/>
-  <b>Note:</b> The Top Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> The Top Languages section is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ## :trophy: My GitHub Trophies
