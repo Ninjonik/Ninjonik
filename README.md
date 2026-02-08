@@ -160,7 +160,7 @@
 
 <br/>
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 
   <br/>
