@@ -5,7 +5,7 @@
 </p>
 
 
-## :sassy_man: About Me
+## :sassy_man: Who am I?
 - :student: I love travelling, gaming, coding and learning.
 - :mortar_board: I'm currently studying Computer Science at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
 
