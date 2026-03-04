@@ -83,6 +83,10 @@
   <a href="https://pocketbase.io/" target="_blank"> 
      <img alt="Pocketbase" src="https://img.shields.io/badge/Pocketbase-%23000000.svg?style=plastic&logo=pocketbase&logoColor=white">
   </a> 
+	  &emsp;
+  <a href="https://www.convex.dev/" target="_blank"> 
+     <img alt="Pocketbase" src="https://img.shields.io/badge/Convex-%23123213.svg?style=plastic&logo=convex&logoColor=orange">
+  </a> 
 </p>
 
 ### 👉 Databases
