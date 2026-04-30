@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ninjonik (Peter Zaťko) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Ninjonik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"><a href="https://peter-zatko.igportals.eu//" target="_blank">https://peter-zatko.igportals.eu/</a></p>
 
