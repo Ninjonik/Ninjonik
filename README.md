@@ -7,7 +7,7 @@
 </p>
 
 ## :sassy_man: Who am I?
-- :student: I love travelling, gaming, and programming.
+- :student: I love exploration, travelling, gaming and problem solving.
 - :mortar_board: I'm currently tryharding studying Computer Science at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
 
 <br>
