@@ -7,8 +7,8 @@
 </p>
 
 ## :sassy_man: Who am I?
-- :student: I love exploration, travelling, gaming and problem solving.
-- :mortar_board: I'm currently tryharding studying Computer Science at [Charles University, Prague](https://cuni.cz/UKEN-1.html)
+- :student: I love exploration, travelling, gaming and coding.
+- :mortar_board: I'm currently studying Computer Science - Artificial Intelligence (Deep Learning) at [Matfyz, Charles University, Prague](https://www.mff.cuni.cz/en).
 
 <br>
 
@@ -172,8 +172,6 @@
  <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjonik&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ninjonik" height="192px"/>
-  <br/>
-  <b>Note:</b> The Top Languages is only a metric of the languages my public code consists of and doesn't my reflect experience or skill level.
   </p>
 
 ## :trophy: My GitHub Trophies
