@@ -178,7 +178,7 @@
 
 ## :trophy: My GitHub Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=ninjonik&layout=compact&theme=algolia" alt="Ninjonik" /></a> </p>
 
 <p align = "center">
 	<h3 align="center">If you feel like giving up, remember why you started.</h3>
